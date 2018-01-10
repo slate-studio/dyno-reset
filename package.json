@@ -25,7 +25,7 @@
   ],
   "main": "./index",
   "dependencies": {
-    "@slatestudio/dyno": "0.13.3",
+    "@slatestudio/dyno": "0.14.0",
     "lodash": "^4.17.4",
     "config": "*"
   },
