@@ -1,1 +1,1 @@
-# dyno-specs
+# dyno-reset
